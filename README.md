@@ -29,7 +29,7 @@ crash safety, and scalability.
 Clone and prepare the project:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/bibeks88/MP-KV_store.git
 cd kvstore
 go mod tidy
 ```
