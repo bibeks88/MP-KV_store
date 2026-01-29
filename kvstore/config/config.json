@@ -1,0 +1,6 @@
+{
+  "memtable_flush_size": 1000,
+  "wal_batch_size": 100,
+  "wal_flush_interval_ms": 10,
+  "compaction_sstable_threshold": 4
+}
